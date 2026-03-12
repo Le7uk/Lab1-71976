@@ -1,0 +1,15 @@
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\bin\Debug\net9.0\Mathematica.exe
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\bin\Debug\net9.0\Mathematica.deps.json
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\bin\Debug\net9.0\Mathematica.runtimeconfig.json
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\bin\Debug\net9.0\Mathematica.dll
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\bin\Debug\net9.0\Mathematica.pdb
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\Mathematica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\Mathematica.AssemblyInfoInputs.cache
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\Mathematica.AssemblyInfo.cs
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\Mathematica.csproj.CoreCompileInputs.cache
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\Mathematica.sourcelink.json
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\Mathematica.dll
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\refint\Mathematica.dll
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\Mathematica.pdb
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\Mathematica.genruntimeconfig.cache
+D:\Programing\С#\Lab8_Practice1\DelegatesTutorial\Mathematica\obj\Debug\net9.0\ref\Mathematica.dll
